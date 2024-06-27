@@ -1,5 +1,11 @@
 {
     "recommendations": [
-        "amazonwebservices.aws-toolkit-vscode"
+        "amazonwebservices.aws-toolkit-vscode",
+        "johnsoncodehk.vscode-typescript-web",
+        "christian-kohler.path-intellisense",
+        "adrianwilczynski.alpine-js-intellisense",
+        "tarrow.css-class-intellisense",
+        "aurorabiz.blade-ui-kit",
+        "developerchannel.fcode"
     ]
 }
